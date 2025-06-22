@@ -1,3 +1,7 @@
+    
+    Usar
+    java -cp target/classes prueba.main.Main src/main/resources/acciones.config
+    
     TP10 - FrameWorks
 
     1. Desarrolle un framework para escribir aplicaciones que permitan lanzar ciertas acciones o procesos por línea de comandos.
