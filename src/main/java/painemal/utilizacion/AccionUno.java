@@ -1,6 +1,6 @@
-package prueba.utilizacion;
+package painemal.utilizacion;
 
-import prueba.framework.Accion;
+import painemal.framework.Accion;
 
 public class AccionUno implements Accion {
     @Override

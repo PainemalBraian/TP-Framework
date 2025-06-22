@@ -1,6 +1,7 @@
     
     Usar
-    java -cp target/classes prueba.main.Main src/main/resources/acciones.config
+    mvn clean compile
+    java -cp target/classes painemal.main.Main src/main/resources/acciones.config
     
     TP10 - FrameWorks
 

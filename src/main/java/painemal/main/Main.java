@@ -1,6 +1,6 @@
-package prueba.main;
+package painemal.main;
 
-import prueba.framework.MenuFramework;
+import painemal.framework.MenuFramework;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,3 +13,5 @@ public class Main {
         framework.mostrarMenu();
     }
 }
+// usar este comando para ejecutar
+// java -cp target/classes painemal.main.Main src/main/resources/acciones.config

@@ -1,4 +1,4 @@
-package prueba.framework;
+package painemal.framework;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

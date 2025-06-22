@@ -1,4 +1,4 @@
-package prueba.framework;
+package painemal.framework;
 
 public interface Accion {
     void ejecutar();
